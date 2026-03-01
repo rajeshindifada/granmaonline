@@ -1,0 +1,8 @@
+{
+  "name": "granma: peoples international online collective",
+  "description": "An international online magazine for revolutionary thought, radical ecology, and collective intelligence, reimagined for the 2026-27 era with integrated Gemini AI synthesis for content generation, analysis, and multilingual access.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
